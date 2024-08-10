@@ -8,7 +8,7 @@ middle_name:
 last_name: 
 email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Exploring the World of Cybersecurity; Learn, Explore, Secure
+  Exploring the World of Cybersecurity; Learn, Explore, Secure1
 footer_text: 
 keywords: CyberSecurity, Pentesing, Hacking, Defense # add your own keywords or leave empty
 lang: en, ar # the language of your site (for example: en, fr, cn, ru, etc.)
