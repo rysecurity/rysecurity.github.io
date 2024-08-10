@@ -8,11 +8,11 @@ middle_name:
 last_name: 
 email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Blogging about Cyber Security #Pentesting.
+  Exploring the World of Cybersecurity; Learn, Explore, Secure
 footer_text: 
-keywords: CyberSecurity, Pentesing, Hacking,  # add your own keywords or leave empty
+keywords: CyberSecurity, Pentesing, Hacking, Defense # add your own keywords or leave empty
 lang: en, ar # the language of your site (for example: en, fr, cn, ru, etc.)
-icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: /assets/img/favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://rysecurity.github.io # the base hostname & protocol for your site
 baseurl:
@@ -128,8 +128,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: RaSecurity # blog_name will be displayed in your blog page
-blog_description: Exploring the World of Pentesting and Cybersecurity; Learn, Explore, Secure 
+blog_name: Secure focus # blog_name will be displayed in your blog page
+blog_description: Exploring the World of Cybersecurity; Learn, Explore, Secure 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -157,7 +157,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: RaSecurity # put your disqus shortname
+disqus_shortname: Secure focus # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
