@@ -8,11 +8,11 @@ middle_name:
 last_name: 
 email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Exploring the World of Cybersecurity; Learn, Explore, Secure1
+  Exploring the World of Cybersecurity; Learn, Explore, Secure
 footer_text: 
 keywords: CyberSecurity, Pentesing, Hacking, Defense # add your own keywords or leave empty
 lang: en, ar # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: /assets/img/favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://rysecurity.github.io # the base hostname & protocol for your site
 baseurl:
