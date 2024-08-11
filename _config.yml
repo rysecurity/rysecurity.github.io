@@ -128,7 +128,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Secure Focus # blog_name will be displayed in your blog page
+blog_name: Secure Angle # blog_name will be displayed in your blog page
 blog_description: Exploring the World of Cybersecurity; Learn, Explore, Secure 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -157,7 +157,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: Secure Focus # put your disqus shortname
+disqus_shortname: Secure Angle # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
